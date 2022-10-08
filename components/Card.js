@@ -31,7 +31,10 @@ const Card = ({
         </div>
         <div className="flex space-x-1 py-[5px] min-h-[50px] pt-2">
           {skills.map((skill) => (
-            <div className="text-[#838383] bg-[#f1f1f1] px-[8px] py-[5px] font-['Roboto Mono'] font-bold text-[13.6px] rounded-[5px]">
+            <div
+              key={skill}
+              className="text-[#838383] bg-[#f1f1f1] px-[8px] py-[5px] font-['Roboto Mono'] font-bold text-[13.6px] rounded-[5px]"
+            >
               {skill}
             </div>
           ))}
