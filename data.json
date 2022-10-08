@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1",
+    "image": "../images/billigence.png",
+    "company": "Billigence",
+    "title": "Cloud Engineer - Azure | 4-6 months contract",
+    "salary": "4,000 - 7,000 / Monthly",
+    "date": "1 day ago",
+    "role": "SysOps",
+    "skills": ["Analytics", "Azure", "AWS"]
+  }, {
+    "id": "2",
+    "image": "../images/billigence.png",
+    "company": "Billigence",
+    "title": "Cloud Engineer - Azure | 4-6 months contract",
+    "salary": "4,000 - 7,000 / Monthly",
+    "date": "1 day ago",
+    "role": "SysOps",
+    "skills": ["Analytics", "Azure", "AWS"]
+  }, 
+  {
+    "id": "3",
+    "image": "../images/billigence.png",
+    "company": "Billigence",
+    "title": "Cloud Engineer - Azure | 4-6 months contract",
+    "salary": "4,000 - 7,000 / Monthly",
+    "date": "1 day ago",
+    "role": "SysOps",
+    "skills": ["Analytics", "Azure", "AWS"]
+  }, 
+  {
+    "id": "4",
+    "image": "../images/billigence.png",
+    "company": "Billigence",
+    "title": "Cloud Engineer - Azure | 4-6 months contract",
+    "salary": "4,000 - 7,000 / Monthly",
+    "date": "1 day ago",
+    "role": "SysOps",
+    "skills": ["Analytics", "Azure", "AWS"]
+  }
+]
