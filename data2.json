@@ -1,0 +1,56 @@
+[
+  {
+    "Mountain": {
+      "title": "Mountain",
+      "images": [
+        "/Mountain2.jpg",
+        "/Mountain1.jpg",
+        "/Mountain2.jpg",
+        "/Mountain3.jpg",
+        "/Mountain1.jpg",
+        "/Mountain2.jpg",
+        "/Mountain3.jpg",
+        "/Mountain1.jpg"
+      ]
+    },
+    "Beaches": {
+      "title": "Beach",
+      "images": [
+        "/Beaches2.jpg",
+        "/Beaches1.jpg",
+        "/Beaches2.jpg",
+        "/Beaches3.jpg",
+        "/Beaches1.jpg",
+        "/Beaches2.jpg",
+        "/Beaches3.jpg",
+        "/Beaches1.jpg"
+      ]
+    },
+    "Birds": {
+      "title": "Bird",
+      "images": [
+        "/Bird2.jpg",
+        "/Bird1.jpg",
+        "/Bird4.jpg",
+        "/Bird3.jpg",
+        "/Bird1.jpg",
+        "/Bird2.jpg",
+        "/Bird3.jpg",
+        "/Bird4.jpg"
+      ]
+    },
+    "Food": {
+      "title": "Food",
+      "images": [
+        "/Food2.jpg",
+        "/Food1.jpg",
+        "/Food2.jpg",
+        "/Food3.jpg",
+        "/Food1.jpg",
+        "/Food2.jpg",
+        "/Food3.jpg",
+        "/Food1.jpg"
+      ]
+    }
+  }
+]

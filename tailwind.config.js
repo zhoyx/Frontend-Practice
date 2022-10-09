@@ -16,5 +16,8 @@ module.exports = {
       sans: ["Helvetica", "Open Sans"],
     },
   },
-  plugins: [require("@tailwindcss/line-clamp")],
+  plugins: [
+    require("@tailwindcss/line-clamp"),
+    require("@tailwindcss/aspect-ratio"),
+  ],
 };

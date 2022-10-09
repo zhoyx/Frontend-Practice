@@ -1,6 +1,5 @@
 import Link from "next/link";
 import Image from "next/image";
-import img from "../images/Billigence.png";
 import Skill from "./Skill";
 
 const Card = ({
@@ -14,12 +13,12 @@ const Card = ({
   skills = [],
 }) => (
   <Link href="/">
-    <a className="h-100 block bg-white rounded-[8px] p-3 border-2 hover:-translate-y-[3px] hover:drop-shadow-md ">
+    <a className="h-100 w-full block bg-white rounded-[8px] p-3 border-2 hover:-translate-y-[3px] hover:drop-shadow-md ">
       <div className="relative flex-col divide-y p-1 h-full">
         <div className="py-2 flex-col relative gap-2">
           <div className="flex md:flex-col gap-2">
-            <div className="max-h-[100px] max-w-[100px] aspect-w-9 aspect-h-9 flex relative md:mx-auto">
-              <Image src={img} alt={company}></Image>
+            <div className="max-h-[100px] max-w-[100px] flex relative md:mx-auto">
+              <Image src={image} alt={company} width={100} height={100}></Image>
             </div>
             <div>
               <div className="text-sm pb-2">{company}</div>

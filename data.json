@@ -1,36 +1,37 @@
 [
   {
     "id": "1",
-    "image": "../images/billigence.png",
+    "image": "/billigence.png",
     "company": "Billigence",
     "title": "Cloud Engineer - Azure | 4-6 months contract",
     "salary": "4,000 - 7,000 / Monthly",
     "date": "1 day ago",
     "role": "SysOps",
     "skills": ["Analytics", "Azure", "AWS"]
-  }, {
+  },
+  {
     "id": "2",
-    "image": "../images/billigence.png",
+    "image": "/billigence.png",
     "company": "Billigence",
     "title": "Cloud Engineer - Azure | 4-6 months contract",
     "salary": "4,000 - 7,000 / Monthly",
     "date": "1 day ago",
     "role": "SysOps",
     "skills": ["Analytics", "Azure", "AWS"]
-  }, 
+  },
   {
     "id": "3",
-    "image": "../images/billigence.png",
+    "image": "/billigence.png",
     "company": "Billigence",
     "title": "Software Engineer",
     "salary": "",
     "date": "1 day ago",
     "role": "SysOps",
     "skills": ["Analytics", "Azure", "AWS"]
-  }, 
+  },
   {
     "id": "4",
-    "image": "../images/billigence.png",
+    "image": "/billigence.png",
     "company": "Billigence",
     "title": "Machine Learning",
     "salary": "",
@@ -40,7 +41,7 @@
   },
   {
     "id": "5",
-    "image": "../images/billigence.png",
+    "image": "/billigence.png",
     "company": "Billigence",
     "title": "Machine Learning",
     "salary": "10000 / Month",
@@ -50,7 +51,7 @@
   },
   {
     "id": "6",
-    "image": "../images/billigence.png",
+    "image": "/billigence.png",
     "company": "Billigence",
     "title": "Machine Learning",
     "salary": "",
@@ -60,7 +61,7 @@
   },
   {
     "id": "7",
-    "image": "../images/billigence.png",
+    "image": "/billigence.png",
     "company": "Billigence",
     "title": "Machine Learning",
     "salary": "4,000 - 6,443 / Month",
@@ -70,7 +71,7 @@
   },
   {
     "id": "8",
-    "image": "../images/billigence.png",
+    "image": "/billigence.png",
     "company": "Billigence",
     "title": "Machine Learning",
     "salary": "",
@@ -80,7 +81,7 @@
   },
   {
     "id": "9",
-    "image": "../images/billigence.png",
+    "image": "/billigence.png",
     "company": "Billigence",
     "title": "Machine Learning",
     "salary": "",
@@ -90,7 +91,7 @@
   },
   {
     "id": "10",
-    "image": "../images/billigence.png",
+    "image": "/billigence.png",
     "company": "Billigence",
     "title": "Machine Learning",
     "salary": "",
@@ -100,7 +101,7 @@
   },
   {
     "id": "11",
-    "image": "../images/billigence.png",
+    "image": "/billigence.png",
     "company": "Billigence",
     "title": "Machine Learning",
     "salary": "",
