@@ -22,8 +22,8 @@
     "id": "3",
     "image": "../images/billigence.png",
     "company": "Billigence",
-    "title": "Cloud Engineer - Azure | 4-6 months contract",
-    "salary": "4,000 - 7,000 / Monthly",
+    "title": "Software Engineer",
+    "salary": "",
     "date": "1 day ago",
     "role": "SysOps",
     "skills": ["Analytics", "Azure", "AWS"]
@@ -35,7 +35,77 @@
     "title": "Machine Learning",
     "salary": "",
     "date": "1 day ago",
+    "role": "PM",
+    "skills": ["Analytics", "Azure", "AWS", "Graph"]
+  },
+  {
+    "id": "5",
+    "image": "../images/billigence.png",
+    "company": "Billigence",
+    "title": "Machine Learning",
+    "salary": "10000 / Month",
+    "date": "2 day ago",
     "role": "SysOps",
-    "skills": ["Analytics", "Azure", "AWS", "Graph", "Artificial Intelligence"]
+    "skills": ["Analytics", "Azure", "AWS", "Graph"]
+  },
+  {
+    "id": "6",
+    "image": "../images/billigence.png",
+    "company": "Billigence",
+    "title": "Machine Learning",
+    "salary": "",
+    "date": "1 day ago",
+    "role": "SysOps",
+    "skills": ["Analytics", "Azure", "AWS", "Graph"]
+  },
+  {
+    "id": "7",
+    "image": "../images/billigence.png",
+    "company": "Billigence",
+    "title": "Machine Learning",
+    "salary": "4,000 - 6,443 / Month",
+    "date": "1 day ago",
+    "role": "SysOps",
+    "skills": ["Analytics", "Azure", "AWS", "Graph"]
+  },
+  {
+    "id": "8",
+    "image": "../images/billigence.png",
+    "company": "Billigence",
+    "title": "Machine Learning",
+    "salary": "",
+    "date": "1 day ago",
+    "role": "Data Eng",
+    "skills": ["Analytics", "Azure", "AWS", "Graph"]
+  },
+  {
+    "id": "9",
+    "image": "../images/billigence.png",
+    "company": "Billigence",
+    "title": "Machine Learning",
+    "salary": "",
+    "date": "1 day ago",
+    "role": "SysOps",
+    "skills": ["Analytics", "Azure", "AWS", "Graph"]
+  },
+  {
+    "id": "10",
+    "image": "../images/billigence.png",
+    "company": "Billigence",
+    "title": "Machine Learning",
+    "salary": "",
+    "date": "1 day ago",
+    "role": "SysOps",
+    "skills": ["Analytics", "Azure", "AWS", "Graph"]
+  },
+  {
+    "id": "11",
+    "image": "../images/billigence.png",
+    "company": "Billigence",
+    "title": "Machine Learning",
+    "salary": "",
+    "date": "1 day ago",
+    "role": "SysOps",
+    "skills": ["Analytics", "Azure", "AWS", "Graph"]
   }
 ]
