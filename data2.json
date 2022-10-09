@@ -29,14 +29,14 @@
     "Birds": {
       "title": "Bird",
       "images": [
-        "/Bird2.jpg",
-        "/Bird1.jpg",
-        "/Bird4.jpg",
-        "/Bird3.jpg",
-        "/Bird1.jpg",
-        "/Bird2.jpg",
-        "/Bird3.jpg",
-        "/Bird4.jpg"
+        "/Birds2.jpg",
+        "/Birds1.jpg",
+        "/Birds4.jpg",
+        "/Birds3.jpg",
+        "/Birds1.jpg",
+        "/Birds2.jpg",
+        "/Birds3.jpg",
+        "/Birds4.jpg"
       ]
     },
     "Food": {
