@@ -13,12 +13,19 @@ const Card = ({
   skills = [],
 }) => (
   <Link href="/">
-    <a className="h-100 w-full block bg-white rounded-[8px] p-3 border-2 hover:-translate-y-[3px] hover:drop-shadow-md ">
+    <a className=" w-full block bg-white rounded-[8px] p-3 border-2 hover:-translate-y-[3px] hover:drop-shadow-md ">
       <div className="relative flex-col divide-y p-1 h-full">
         <div className="py-2 flex-col relative gap-2">
           <div className="flex md:flex-col gap-2">
-            <div className="max-h-[100px] max-w-[100px] flex relative md:mx-auto">
-              <Image src={image} alt={company} width={100} height={100}></Image>
+            <div className="h-[100px] w-[100px] relative block md:mx-auto shrink-0">
+              <Image
+                src={image}
+                alt={company}
+                width={100}
+                height={100}
+                objectFit="contain"
+                layout="responsive"
+              ></Image>
             </div>
             <div>
               <div className="text-sm pb-2">{company}</div>
