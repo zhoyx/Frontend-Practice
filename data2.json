@@ -26,17 +26,17 @@
         "/Beaches1.jpg"
       ]
     },
-    "Test": {
-      "title": "Test",
+    "Birds": {
+      "title": "Bird",
       "images": [
-        "/Test2.jpg",
-        "/Test1.jpg",
-        "/Test4.jpg",
-        "/Test3.jpg",
-        "/Test1.jpg",
-        "/Test2.jpg",
-        "/Test3.jpg",
-        "/Test4.jpg"
+        "/Birds2.jpg",
+        "/Birds1.jpg",
+        "/Birds4.jpg",
+        "/Birds3.jpg",
+        "/Birds1.jpg",
+        "/Birds2.jpg",
+        "/Birds3.jpg",
+        "/Birds4.jpg"
       ]
     },
     "Food": {
