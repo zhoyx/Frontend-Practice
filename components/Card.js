@@ -42,8 +42,8 @@ const Card = ({
         </div>
         <div className="h-100 mt-auto">
           <div className="flex space-x-1 flex-1 truncate pt-3">
-            {skills.map((skill1) => (
-              <Skill key={skill1} skill={skill1} />
+            {skills.map((skill1, index) => (
+              <Skill key={index} skill={skill1} />
             ))}
           </div>
         </div>
